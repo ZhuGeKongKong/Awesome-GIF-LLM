@@ -1,4 +1,4 @@
-# Awesome-Clip-LLM
+# Awesome-GIF-LLM
  Part of the information comes from [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/tree/main).
 ## Datasets 
 ### GIF
