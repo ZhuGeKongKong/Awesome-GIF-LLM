@@ -32,6 +32,6 @@
 ### Instruction-tuned for Lanuage Task
 |Name|Paper|Code|Video Datasets|Comments|
 |:----:|:-------------|:---|:----|:----|
-|Video-LLaMA|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)|[Link](https://github.com/DAMO-NLP-SG/Video-LLaMA)![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)| Pertraining: Webvid+CC3M<br>Finetune: Video-Chat+LLaVa+MiniGPT4-4|BLIP2+Q-Former+Vicuna/LLaMa |
+|Video-LLaMA|[Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)|[Link](https://github.com/DAMO-NLP-SG/Video-LLaMA)![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)| Pertraining: Webvid+CC3M<br>Finetune: Video-Chat+LLaVa+MiniGPT4-4|BLIP2+Vicuna/LLaMa |
 |Video-LLaVA|[Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/pdf/2311.10122.pdf)|[Link](https://github.com/PKU-YuanGroup/Video-LLaVA)![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA.svg?style=social&label=Star)| Pertraining: WebVid+CC3M<br>Finetune:Video-ChatGPT+LLaVa|LanguageBind+Vicuna|
 
